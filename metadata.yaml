@@ -1,0 +1,36 @@
+_repo: Om-Tanke-och-Yttrandefrihet_52758
+_version: 0.0.1
+alternative_title: Of the liberty of thought and discussion. Swedish
+contributor:
+  translator:
+    agent_name: Öhrvall, Hjalmar
+    alias: Ohrvall, Hjalmar
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '40410'
+    url: http://www.gutenberg.org/2009/agents/40410
+    wikipedia: http://sv.wikipedia.org/wiki/Hjalmar_%C3%96hrwall
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: ''
+gutenberg_issued: '2016-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52758'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freedom of speech'
+- !lcc 'JC'
+- GITenberg
+title: Om Tanke- och Yttrandefrihet
+url: http://www.gutenberg.org/ebooks/52758
